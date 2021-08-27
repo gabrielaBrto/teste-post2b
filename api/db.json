@@ -1,0 +1,35 @@
+{
+  "boards": [],
+  "tasks": [],
+  "status": [
+    {
+      "id": 1,
+      "name": "To do"
+    },
+    {
+      "id": 2,
+      "name": "Doing"
+    },
+    {
+      "id": 3,
+      "name": "Done"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Urgente",
+      "color": "danger"
+    },
+    {
+      "id": 2,
+      "name": "Revisão",
+      "color": "warning"
+    },
+    {
+      "id": 3,
+      "name": "Finalizado",
+      "color": "success"
+    }
+  ]
+}
